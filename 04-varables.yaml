@@ -1,5 +1,5 @@
 - name: varables
-  host: localhost
+  hosts: localhost
   vars:
     course: "Ansible"
     Triner: "Shiva Kumar"
